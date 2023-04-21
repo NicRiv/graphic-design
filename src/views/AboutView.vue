@@ -1,16 +1,7 @@
 <template>
-  <div class="about">
-    <!-- <h1>This is an about page</h1> -->
-    <p class="text-xl text-red-300">Tailwind test</p>
+  <div class="">
+
   </div>
 </template>
 
-<style>
-@media (min-width: 1024px) {
-  .about {
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
-  }
-}
-</style>
+
